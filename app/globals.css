@@ -1,0 +1,25 @@
+/* GitBook dark mode visual match */
+:root {
+  --nextra-primary-hue: 27deg;
+  --nextra-primary-saturation: 75%;
+}
+
+/* Force dark mode as default */
+html {
+  color-scheme: dark;
+}
+
+/* Custom dark theme overrides to match GitBook dark */
+.dark {
+  --nextra-bg: 17, 17, 27;
+}
+
+/* Hint/callout styling */
+.nextra-callout {
+  border-radius: 6px;
+}
+
+/* Sidebar styling to feel more like GitBook */
+aside nav {
+  font-size: 0.9rem;
+}
