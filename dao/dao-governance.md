@@ -1,0 +1,11 @@
+---
+description: Community-driven decision making.
+---
+
+# DAO Governance
+
+(Coming Soon)
+
+$MONSTRO stakers will form the core of the governance system. Their voting power will influence key decisions such as emissions adjustments, treasury allocations, product direction, and Council elections.
+
+This page will be expanded once the governance framework, proposal system, and voting mechanism are live.

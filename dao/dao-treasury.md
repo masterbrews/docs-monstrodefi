@@ -1,0 +1,11 @@
+---
+description: The financial backbone of the $MONSTRO ecosystem.
+---
+
+# DAO Treasury
+
+(Coming Soon)
+
+The DAO Treasury will manage all protocol-owned funds, including penalties, unclaimed allocations, ecosystem revenue, and future income from products and services. Treasury operations will be fully transparent and controlled by DAO voting or Council-authorized transactions.
+
+A complete breakdown of wallets, flows, and spending rules will be added as the DAO charter is finalized.
