@@ -12,7 +12,6 @@
   * [Auto-Stake Allocations](usdmonstro/auto-stake-allocations.md)
 * [mUSDC](musdc/README.md)
   * [Overview](musdc/overview.md)
-  * [CoinGecko Verification](musdc/coingecko-verification.md)
 * [xMONSTRO](xmonstro/README.md)
   * [Overview](xmonstro/overview.md)
 * [Technology](technology/README.md)

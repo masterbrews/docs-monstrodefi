@@ -1,6 +1,6 @@
 ---
 description: A MONSTRO-backed bonding-curve vault token.
-icon: fire
+icon: square-x
 ---
 
 # xMONSTRO
