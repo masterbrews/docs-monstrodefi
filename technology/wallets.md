@@ -22,7 +22,7 @@ Each wallet is governed by the same Monstro DAO Council using a 5-of-7 multisig 
 
 Operational wallets authorized by the Monstro DAO for protocol deployment and day-to-day execution. These wallets do not custody treasury funds and operate under policies approved by the DAO.
 
-<table><thead><tr><th width="122">Wallet</th><th width="436">Address</th><th>Purpose</th></tr></thead><tbody><tr><td><strong>Deployer</strong></td><td><a href="https://basescan.org/address/0xBd395a6b355957AA1C25Fd12c561CDB2E4C836b6">0xBd395a6b355957AA1C25Fd12c561CDB2E4C836b6</a></td><td>One-time contract deployment and initial configuration</td></tr><tr><td><strong>Operator</strong></td><td><a href="https://basescan.org/address/0x238ddfdb0927b8831e9782318393fe50f3167157">0x238ddfdb0927b8831e9782318393fe50f3167157</a></td><td>Day-to-day execution of DAO-approved operational actions</td></tr></tbody></table>
+<table><thead><tr><th width="122">Wallet</th><th width="436">Address</th><th>Purpose</th></tr></thead><tbody><tr><td><strong>Deployer</strong></td><td><a href="https://basescan.org/address/0xC88CCc4A7ce95c63607Fa6947060d23F0217972C">0xC88CCc4A7ce95c63607Fa6947060d23F0217972C</a></td><td>One-time contract deployment and initial configuration</td></tr><tr><td><strong>Operator</strong></td><td><a href="https://basescan.org/address/0x238ddfdb0927b8831e9782318393fe50f3167157">0x238ddfdb0927b8831e9782318393fe50f3167157</a></td><td>Day-to-day execution of DAO-approved operational actions</td></tr></tbody></table>
 
 > These wallets are not treasury wallets.\
 > They exist solely to perform authorized operational actions such as contract deployment and execution on behalf of the DAO.
@@ -40,4 +40,4 @@ Moonbagz assets are DAO-owned and stored across multiple chains. These will be l
 ## **Final Notes**
 
 * Only trust wallet addresses listed here or published through official Monstro channels.
-* The deployer wallet (`0xBd39…836b6`) will be used exclusively for contract deployments and should **never** receive or send treasury funds.
+* The deployer wallet (`0xC88C…972C`) will be used exclusively for contract deployments and should **never** receive or send treasury funds.
