@@ -15,4 +15,4 @@ This page will detail:
 * How legacy Ops wallets are handled
 * How responsibilities shift as governance matures
 
-Full documentation will go live alongside the DAO’s charter.
+Full documentation will go live alongside the DAO and Labs operating agreement, which is still being drafted.

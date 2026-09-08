@@ -17,9 +17,7 @@ export function PrevNext({ prev, next }: { prev: PageLink | null; next: PageLink
             </span>
           </span>
         </Link>
-      ) : (
-        <span style={{ flex: 1 }} />
-      )}
+      ) : null}
       {next ? (
         <Link className="pager next" href={next.url}>
           <span>
@@ -30,9 +28,7 @@ export function PrevNext({ prev, next }: { prev: PageLink | null; next: PageLink
           </span>
           <FaIcon icon={faChevronRight} />
         </Link>
-      ) : (
-        <span style={{ flex: 1 }} />
-      )}
+      ) : null}
     </nav>
   )
 }

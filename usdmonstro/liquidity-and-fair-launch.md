@@ -27,7 +27,9 @@ This ensures a clean, transparent, and equal start for everyone.
 
 ## **Where $MONSTRO Launches**
 
-$MONSTRO will launch exclusively on **Alien Base DEX**, using their Uniswap v3 pools on the Base network.
+$MONSTRO trades exclusively on **Alien Base DEX**, using their Uniswap v3 pools on the Base network. The only liquidity pool is MONSTRO/ALB.
+
+If you hold ETH or USDC instead of ALB, the [Monstro swap](https://monstrodefi.com/swap) routes the trade for you instantly, with no fee beyond the pool fee and gas.
 
 This provides:
 

@@ -14,7 +14,7 @@ This roadmap outlines the major milestones guiding the rollout of the $MONSTRO t
 ## ✅ Foundation + Launch (Completed)
 
 * Contracts deployed and audits published
-* MONSTRO live on Alien Base and Aerodrome
+* MONSTRO live on Alien Base
 * Staking and emissions active
 * Auto-stake claiming live
 * DAO multisigs established and all legacy assets consolidated

@@ -6,6 +6,8 @@ description: Learn how to acquire $MONSTRO by swapping supported tokens on Alien
 
 The recommended way to get started is directly from the Monstro website, which links to Alien Base with the correct swap pair pre-selected.
 
+The only liquidity pool is MONSTRO/ALB. If you are starting from ETH or USDC, the [Monstro swap](https://monstrodefi.com/swap) handles the whole trade in one step, instantly and with no fee beyond the pool fee and gas.
+
 > **Note**\
 > The steps below use Alien Base’s swap interface. Screenshots are provided as examples and may vary slightly from the live interface.
 

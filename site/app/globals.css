@@ -108,8 +108,17 @@ kbd {
   max-width: 768px;
   margin: 0 auto;
   padding: 32px 0;
+  min-height: calc(100vh - var(--header-h));
+  display: flex;
+  flex-direction: column;
   container-type: inline-size;
   overflow-wrap: anywhere;
+}
+.page-body {
+  flex: 1;
+}
+.page-wrap:has(.page-cover) .page {
+  min-height: 0;
 }
 
 /* ---------- Header ---------- */

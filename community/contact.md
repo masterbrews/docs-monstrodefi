@@ -11,7 +11,7 @@ If you have questions, need assistance, or want to get in touch with the project
 **●** [**Discord**](https://discord.gg/monstrodefi)\
 Open a ticket or tag a moderator for support, questions, or general help.
 
-**●** [**Telegram**](https://t.me/monstrodefi)\
+**●** [**Telegram**](https://t.me/MonstroPortal)\
 Quick communication for basic inquiries and community discussions.
 
 For security and clarity, all communication should go through these official public channels.\
