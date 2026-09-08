@@ -120,6 +120,10 @@ kbd {
 .page-wrap:has(.page-cover) .page {
   min-height: 0;
 }
+.page-cover.hero {
+  height: 208px;
+  margin: 0 0 16px;
+}
 
 /* ---------- Header ---------- */
 .site-header {

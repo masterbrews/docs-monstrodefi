@@ -54,7 +54,7 @@ export default async function Page({ params }: { params: Promise<Params> }) {
   const icon = getIcon(page.icon);
   return (
     <div className="page-wrap">
-      {page.cover ? (
+      {page.cover && page.coverSize === "full" ? (
         <div
           className="page-cover"
           style={{ "--cover-y": `${-page.coverY}px` } as React.CSSProperties}
@@ -71,6 +71,22 @@ export default async function Page({ params }: { params: Promise<Params> }) {
       <div className="page-columns">
         <main className="page">
           <div className="page-body">
+            {page.cover && page.coverSize === "hero" ? (
+              <div
+                className="page-cover hero"
+                style={
+                  { "--cover-y": `${-page.coverY}px` } as React.CSSProperties
+                }
+              >
+                <img
+                  src={page.cover.src}
+                  width={page.cover.width}
+                  height={page.cover.height}
+                  alt=""
+                  fetchPriority="high"
+                />
+              </div>
+            ) : null}
             <header className="page-header">
               {page.toc.length ? (
                 <div className="page-actions">
