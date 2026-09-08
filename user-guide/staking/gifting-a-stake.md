@@ -81,7 +81,7 @@ The recipient wallet now has an active stake and can manage it from their own st
 
 * Gifted stakes are **created or added directly to the recipient’s stake**
 * You must use **liquid (unstaked) $MONSTRO** to gift a stake
-* The recipient **can already have an active stake** — the gifted amount will be added to it
+* The recipient **can already have an active stake**. The gifted amount will be added to it
 * If the recipient already has a stake, the gifted tokens are added to it and the early-unstake penalty recalculates proportionally
 * Once gifted, the stake is fully controlled by the recipient
 * Gifting does **not** affect your own existing stake or penalties

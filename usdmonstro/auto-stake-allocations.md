@@ -58,7 +58,7 @@ Once claimed:
 * You receive full DAO voting rights
 * Your position behaves exactly like any normal stake
 
-There is **no difference** between auto-stakers and regular stakers — **same emissions, same tiers, same mechanics, same contract.**
+There is **no difference** between auto-stakers and regular stakers. **Same emissions, same tiers, same mechanics, same contract.**
 
 ***
 

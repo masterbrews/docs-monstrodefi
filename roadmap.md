@@ -24,7 +24,7 @@ This roadmap outlines the major milestones guiding the rollout of the $MONSTRO t
 
 ***
 
-## 🔄 Current Focus — Strengthening the Core
+## 🔄 Current Focus: Strengthening the Core
 
 * Liquidity strategy refinement across pools
 * Active emissions monitoring and parameter tuning

@@ -1,6 +1,6 @@
 ---
 description: >-
-  $MONSTRO launches with fully fair, on-chain price discovery — no presale, no
+  $MONSTRO launches with fully fair, on-chain price discovery. No presale, no
   private rounds, no insiders.
 ---
 
@@ -19,7 +19,7 @@ $MONSTRO launches under a strict **fair launch** model:
 
 The only liquid tokens at the exact moment of launch are the ones placed into the **initial liquidity pool**.
 
-All other allocations — including team, treasury, converters, and emissions — are staked or locked within contracts and cannot be traded at launch.
+All other allocations, including team, treasury, converters, and emissions, are staked or locked within contracts and cannot be traded at launch.
 
 This ensures a clean, transparent, and equal start for everyone.
 
@@ -38,7 +38,7 @@ This provides:
 * A smooth and intuitive trading experience
 * Support for v3 liquidity positions and farming rewards
 
-Users simply trade on Alien Base like any other token — the v3 mechanics operate entirely behind the scenes.
+Users simply trade on Alien Base like any other token. The v3 mechanics operate entirely behind the scenes.
 
 ***
 
@@ -91,7 +91,7 @@ Liquidity growth may come from:
 * Additional pools created on other decentralized exchanges
 * Future listings on new platforms as the ecosystem grows
 
-There are **no hidden mechanics**, **no team-controlled minting**, and **no backdoor liquidity injections** — the market drives liquidity expansion organically.
+There are **no hidden mechanics**, **no team-controlled minting**, and **no backdoor liquidity injections**. The market drives liquidity expansion organically.
 
 ***
 
@@ -107,4 +107,4 @@ $MONSTRO launches cleanly, with:
 * transparent on-chain price discovery
 * Alien Base DEX as the exclusive launch venue
 
-It’s the simplest and fairest launch structure possible — the market decides the rest.
+It’s the simplest and fairest launch structure possible. The market decides the rest.

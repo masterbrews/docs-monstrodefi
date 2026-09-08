@@ -5,7 +5,7 @@ icon: coins
 
 # $MONSTRO
 
-$MONSTRO is the foundational token powering the next era of Monstro DeFi. Built on a fixed supply, no-minting ERC-20 design, it emphasizes transparency, long-term alignment, and sustainable growth. The token integrates directly with Monstro’s staking engine, emissions system, and DAO governance — creating a unified, streamlined ecosystem for both legacy holders and new participants.
+$MONSTRO is the foundational token powering the next era of Monstro DeFi. Built on a fixed supply, no-minting ERC-20 design, it emphasizes transparency, long-term alignment, and sustainable growth. The token integrates directly with Monstro’s staking engine, emissions system, and DAO governance, creating a unified, streamlined ecosystem for both legacy holders and new participants.
 
 With no taxes, no mint functions, and multiple deflationary mechanisms tied to on-chain activity, $MONSTRO is engineered to evolve into a progressively scarce asset over time while supporting the ecosystem’s broader products and future revenue streams.
 
@@ -37,7 +37,7 @@ Claim process for legacy Monstro holders and acquired communities.
 
 #### **✔ Fixed Supply, Zero Minting**
 
-400M tokens exist on day one — permanently. No inflation, no hidden controls, no tax logic.
+400M tokens exist on day one, permanently. No inflation, no hidden controls, no tax logic.
 
 #### **✔ Real Deflation Through On-Chain Behavior**
 
@@ -59,6 +59,6 @@ Once DAO governance activates, MONSTRO becomes the backbone of proposals, voting
 
 ## **A New Chapter for Monstro DeFi**
 
-$MONSTRO is more than a token launch — it is the unification of every product, every community, and every holder into one streamlined architecture. The design focuses on sustainability, fairness, and long-term value creation through real ecosystem growth rather than short-term hype cycles.
+$MONSTRO is more than a token launch. It is the unification of every product, every community, and every holder into one streamlined architecture. The design focuses on sustainability, fairness, and long-term value creation through real ecosystem growth rather than short-term hype cycles.
 
 Whether you're a legacy holder from Monstro's early days or a new participant entering the ecosystem for the first time, $MONSTRO provides a clear path forward with a transparent, modern token framework built to last.

@@ -71,7 +71,7 @@ Deflation occurs entirely through natural user behavior:
 * Optional voluntary burns
 * Future DAO burn proposals
 
-There are **no forced burns**, no gimmicks, and no artificial market manipulation — only transparent, predictable, on-chain events.
+There are **no forced burns**, no gimmicks, and no artificial market manipulation. Only transparent, predictable, on-chain events.
 
 ***
 

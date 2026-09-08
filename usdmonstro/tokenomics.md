@@ -42,4 +42,4 @@ Only the liquidity pool is tradable at launch. All other tokens are locked in th
 
 ## Summary
 
-$MONSTRO’s tokenomics are intentionally simple: a fixed 400M supply with no minting, no transfer taxes, and a transparent distribution model. All further mechanics — staking, emissions, penalties, deflation, and treasury flow — operate in separate modules and do not modify or inflate supply. This structure keeps $MONSTRO predictable, fair, and fully aligned with long-term ecosystem growth.
+$MONSTRO’s tokenomics are intentionally simple: a fixed 400M supply with no minting, no transfer taxes, and a transparent distribution model. All further mechanics (staking, emissions, penalties, deflation, and treasury flow) operate in separate modules and do not modify or inflate supply. This structure keeps $MONSTRO predictable, fair, and fully aligned with long-term ecosystem growth.

@@ -20,6 +20,20 @@ const summary = fs.readFileSync(path.join(contentDir, 'SUMMARY.md'), 'utf8')
 const tree = parseSummary(summary)
 const pages = flattenPages(tree)
 
+// ---------- 0. House style guard: no em dashes anywhere in the content ----------
+const offenders = []
+for (const page of pages) {
+  const raw = fs.readFileSync(path.join(contentDir, page.file), 'utf8')
+  raw.split(/\r?\n/).forEach((line, i) => {
+    if (line.includes('\u2014')) offenders.push(`${page.file}:${i + 1}`)
+  })
+}
+if (offenders.length) {
+  console.error('[prepare] Em dashes are not allowed in the docs. Replace them with a period, comma, colon or parentheses:')
+  for (const o of offenders) console.error('  ' + o)
+  process.exit(1)
+}
+
 // ---------- 1. Collect asset references ----------
 const refs = new Set()
 const RE_ATTR = /(?:src|href)="([^"]*\.gitbook\/assets\/[^"]+)"/g

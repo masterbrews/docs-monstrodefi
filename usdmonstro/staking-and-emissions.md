@@ -43,7 +43,7 @@ Stakers earn from a dedicated MONSTRO emissions pool:
 * **60M MONSTRO** reserved for single-staking
 * Distributed continuously over \~18 months
 * Can last longer via refill mechanisms
-* Token supply is fixed — emissions cannot ever increase max supply
+* Token supply is fixed. Emissions cannot ever increase max supply
 
 You’ll see rewards accrue in real time and can claim or compound them anytime.
 

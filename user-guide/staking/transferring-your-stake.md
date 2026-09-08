@@ -54,7 +54,7 @@ Once confirmed, the stake will be fully transferred to the recipient address.
 
 ## Important notes
 
-* Transfers are **all or nothing** — partial transfers are not supported
+* Transfers are **all or nothing**. Partial transfers are not supported
 * The recipient wallet **must not already have an active stake**
 * The stake’s rewards and penalty state transfer along with it
 * This action does **not** reset or remove penalties
