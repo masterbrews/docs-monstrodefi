@@ -1122,6 +1122,7 @@ kbd {
   position: fixed;
   inset: 0;
   z-index: 45;
+  cursor: default;
   background: rgb(var(--tint-2) / 0.5);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
