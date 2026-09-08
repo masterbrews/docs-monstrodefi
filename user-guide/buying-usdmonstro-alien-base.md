@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn how to acquire $MONSTRO by swapping supported tokens on Alien Base once
-  trading is live.
+description: Learn how to acquire $MONSTRO by swapping supported tokens on Alien Base.
 ---
 
 # Buying $MONSTRO (Alien Base)
@@ -9,7 +7,7 @@ description: >-
 The recommended way to get started is directly from the Monstro website, which links to Alien Base with the correct swap pair pre-selected.
 
 > **Note**\
-> The steps below use Alien Base’s swap interface. Screenshots are provided as examples and may vary slightly once trading is live.
+> The steps below use Alien Base’s swap interface. Screenshots are provided as examples and may vary slightly from the live interface.
 
 ***
 
@@ -54,8 +52,7 @@ Enter the amount of the input token you wish to swap.
 
 The interface will estimate the amount you will receive based on current market conditions.
 
-> **Pre-launch note**\
-> Before trading is live, $MONSTRO may not display price data or may appear as “searching for price.”\
+> **Note**\
 > Example screenshots may show a different token pair (such as USDC → ALB) for illustration purposes only.
 
 <figure><img src="../.gitbook/assets/buy-4.png" alt=""><figcaption></figcaption></figure>

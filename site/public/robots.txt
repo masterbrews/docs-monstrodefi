@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs.monstrodefi.com/sitemap.xml

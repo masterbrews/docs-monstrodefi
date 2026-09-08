@@ -8,8 +8,8 @@ This guide explains how to farm $MONSTRO on Alien Base by adding liquidity to th
 
 When you add liquidity, your position is automatically staked in the farm, allowing you to earn both trading fees and farm rewards without any additional steps.
 
-> **Pre-launch note**\
-> Some screenshots in this guide may show a different token pair for illustration purposes. The interface and steps are the same and will apply to the $MONSTRO vault once liquidity is live.
+> **Note**\
+> Some screenshots in this guide may show a different token pair for illustration purposes. The interface and steps are the same for the $MONSTRO vault.
 
 ***
 

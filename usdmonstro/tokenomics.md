@@ -30,7 +30,7 @@ description: >-
 | Initial Liquidity Added       | 1,000,000 MONSTRO + 15,693 USDC           |
 | Total Liquidity Value         | $47,693 USD                               |
 | Liquidity Pair                | MONSTRO / USDC                            |
-| Circulating Supply at Launch  | 1,0**00,000 MONSTRO** _(LP only)_         |
+| Circulating Supply at Launch  | 1,000,000 MONSTRO _(LP only)_             |
 | Circulating Market Cap        | $32,000 USD                               |
 | Fully Diluted Valuation (FDV) | $12.8M USD                                |
 

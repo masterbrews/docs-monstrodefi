@@ -26,7 +26,7 @@ Step-by-step guidance for creating, managing, transferring, and unstaking your $
 How to swap for $MONSTRO on Alien Base.
 
 ● [**Farming $MONSTRO (Alien Base)**](farming-usdmonstro-alien-base.md)\
-Add liquidity once automatically earn trading fees and farm rewards.
+Add liquidity once and automatically earn trading fees and farm rewards.
 
 ***
 

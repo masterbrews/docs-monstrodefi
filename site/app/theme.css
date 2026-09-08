@@ -1,0 +1,88 @@
+/* Colour system. Values are "r g b" triplets so they can be used with alpha: rgb(var(--tint-6) / 0.5).
+   Scales mirror the GitBook site: tint (neutral, slightly coloured by the accent), primary (accent),
+   info / warning / success / danger (hint boxes). Dark is the default; html.light overrides. */
+:root {
+  --tint-1: 29 29 29;
+  --tint-2: 33 35 35;
+  --tint-3: 41 45 46;
+  --tint-4: 43 49 50;
+  --tint-5: 47 55 57;
+  --tint-6: 49 60 62;
+  --tint-7: 57 70 73;
+  --tint-8: 65 81 84;
+  --tint-9: 89 142 153;
+  --tint-10: 101 154 165;
+  --tint-11: 176 197 201;
+  --tint-12: 251 255 255;
+
+  --primary-1: 29 29 29;
+  --primary-2: 32 35 36;
+  --primary-3: 39 45 47;
+  --primary-4: 39 50 52;
+  --primary-5: 42 56 59;
+  --primary-6: 43 61 65;
+  --primary-7: 49 72 77;
+  --primary-8: 56 83 89;
+  --primary-9: 124 224 244;
+  --primary-10: 54 160 179;
+  --primary-11: 164 199 207;
+  --primary-12: 248 255 255;
+  --contrast-primary: 29 29 29;
+
+  --info-3: 44 44 44;
+  --info-9: 120 120 120;
+  --warning-3: 50 42 35;
+  --warning-9: 254 154 0;
+  --success-3: 37 47 38;
+  --success-9: 0 201 80;
+  --danger-3: 55 39 38;
+  --danger-9: 251 44 54;
+
+  --header-line: 255 255 255;
+  --header-line-alpha: 0.08;
+  --shadow-color: 0 0 0;
+  color-scheme: dark;
+}
+
+html.light {
+  --tint-1: 255 255 255;
+  --tint-2: 252 249 247;
+  --tint-3: 252 246 242;
+  --tint-4: 249 240 235;
+  --tint-5: 246 235 227;
+  --tint-6: 241 226 217;
+  --tint-7: 230 213 202;
+  --tint-8: 220 200 187;
+  --tint-9: 171 120 85;
+  --tint-10: 159 108 74;
+  --tint-11: 126 106 93;
+  --tint-12: 32 28 26;
+
+  --primary-1: 255 255 255;
+  --primary-2: 254 249 246;
+  --primary-3: 255 245 239;
+  --primary-4: 254 239 230;
+  --primary-5: 252 233 221;
+  --primary-6: 248 224 209;
+  --primary-7: 239 211 192;
+  --primary-8: 230 197 176;
+  --primary-9: 222 134 68;
+  --primary-10: 180 96 21;
+  --primary-11: 135 102 80;
+  --primary-12: 34 28 23;
+  --contrast-primary: 255 255 255;
+
+  --info-3: 247 247 247;
+  --info-9: 120 120 120;
+  --warning-3: 255 245 236;
+  --warning-9: 254 154 0;
+  --success-3: 238 252 240;
+  --success-9: 0 201 80;
+  --danger-3: 255 242 239;
+  --danger-9: 251 44 54;
+
+  --header-line: 0 0 0;
+  --header-line-alpha: 0.08;
+  --shadow-color: 60 40 20;
+  color-scheme: light;
+}

@@ -6,4 +6,4 @@ hidden: true
 
 This page is used to verify the CoinMarketCap update supply request for the Monstro project.
 
-CMC Request ID: **#**&#x31;334095
+CMC Request ID: **#1334095**
